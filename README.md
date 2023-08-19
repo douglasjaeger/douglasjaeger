@@ -1,7 +1,12 @@
-<h1 align="center">
-### Hi there! Welcome to my profile
-</h1>
+Me chamo Douglas e seja bem vindo ao meu perfil!!!
 
+### My Github Stats:
+
+<div>
+<a href="https://github.com/douglasjaeger">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasjaeger&show_icons=true&theme=dracula&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasjaeger&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Some of my knowledge:
 
@@ -32,11 +37,5 @@
 <a href="https://www.linkedin.com/in/douglas-jaeger84" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### My Github Stats:
 
-<div>
-<a href="https://github.com/douglasjaeger">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisBertoldi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisBertoldi&show_icons=true&theme=dracula&include_all_commits=true"/>
-</div>
 
