@@ -1,4 +1,4 @@
-<h2> Olá, sou Douglas e sou Analista de testes de software!!! </h2>
+<h2> Olá, me chamo Douglas e sou Analista de testes de software!!! </h2>
 <br>
 
 Sou apaixonado por tecnologia e acredito que os testes são essenciais para garantir a qualidade de um software.
