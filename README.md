@@ -1,5 +1,12 @@
-<h2> Me chamo Douglas e seja bem vindo ao meu perfil!!! </h2>
+<h2> Olá, sou Douglas e sou Analista de testes de software!!! </h2>
 <br>
+
+Sou apaixonado por tecnologia e acredito que os testes são essenciais para garantir a qualidade de um software.
+Busco sempre aprender novas tecnologias e técnicas de teste para aprimorar minhas habilidades.
+Estou disposto a aprender e compartilhar meu conhecimento com os outros.
+Se você tiver alguma dúvida ou quiser conversar sobre testes, não hesite em me contatar.
+Obrigado pela visita!
+
 
 
 ### Meu GitHub Stats:
